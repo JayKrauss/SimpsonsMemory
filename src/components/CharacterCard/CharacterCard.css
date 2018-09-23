@@ -1,0 +1,12 @@
+.charactercard {
+    padding: 8px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.charactercard img {
+    max-height: 175px;
+    padding: 8px;
+    margin: 8px;
+}

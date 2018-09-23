@@ -1,0 +1,25 @@
+#score, #max{
+    margin-left: 10px;
+    color:white;
+}
+
+.fieldcontainer {
+    width: 100%;
+}
+
+.playerscore{
+    height:200px;
+    width: 300px;
+    background-image: url('../../images/scorebox.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.textcenter {
+    color: white;
+    font-size: 30px;
+}
+
+.characterdisplay {
+    width: 100%;
+}

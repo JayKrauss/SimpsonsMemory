@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Homer",
+        "tapped": false,
+        "picture":"./images/characters/homer.png"
+    },
+    {
+        "id": 2,
+        "name": "Marge",
+        "tapped": false,
+        "picture":"./images/characters/marge.png"
+    },
+    {
+        "id": 3,
+        "name": "Lisa",
+        "tapped": false,
+        "picture":"./images/characters/lisa.png"
+    },
+    {
+        "id": 4,
+        "name": "Bart",
+        "tapped": false,
+        "picture":"./images/characters/bart.png"
+    },
+    {
+        "id": 5,
+        "name": "Grandpa",
+        "tapped": false,
+        "picture":"./images/characters/grandpa.png"
+    },
+    {
+        "id": 6,
+        "name": "Selma",
+        "tapped": false,
+        "picture":"./images/characters/selma.png"
+    },
+    {
+        "id": 7,
+        "name": "Patty",
+        "tapped": false,
+        "picture":"./images/characters/patty.png"
+    },
+    {
+        "id": 8,
+        "name": "Frink",
+        "tapped": false,
+        "picture":"./images/characters/frink.png"
+    },
+    {
+        "id": 9,
+        "name": "Comicbook Guy",
+        "tapped": false,
+        "picture":"./images/characters/comicbookguy.png"
+    },
+    {
+        "id": 10,
+        "name": "Chief Wiggum",
+        "tapped": false,
+        "picture":"./images/characters/chiefwiggum.png"
+    },
+    {
+        "id": 11,
+        "name": "Milhouse",
+        "tapped": false,
+        "picture":"./images/characters/milhouse.png"
+    },
+    {
+        "id": 12,
+        "name": "Ralph",
+        "tapped": false,
+        "picture":"./images/characters/ralph.png"
+    },
+    {
+        "id": 13,
+        "name": "Nelson",
+        "tapped": false,
+        "picture":"./images/characters/nelson.png"
+    },
+    {
+        "id": 14,
+        "name": "Moe",
+        "tapped": false,
+        "picture":"./images/characters/moe.png"
+    },
+    {
+        "id": 15,
+        "name": "Barney",
+        "tapped": false,
+        "picture":"./images/characters/barney.png"
+    },
+    {
+        "id": 16,
+        "name": "Maggie",
+        "tapped": false,
+        "picture":"./images/characters/maggie.png"
+    },
+    {
+        "id": 17,
+        "name": "Krusty",
+        "tapped": false,
+        "picture":"./images/characters/krusty.png"
+    },
+    {
+        "id": 18,
+        "name": "Ned",
+        "tapped": false,
+        "picture":"./images/characters/ned.png"
+    }
+]
